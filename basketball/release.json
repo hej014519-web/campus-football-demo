@@ -1,0 +1,15 @@
+{
+  "app": "startline-basketball",
+  "version": "1.0.0-demo",
+  "release_id": "20261106T065429Z-df1c2b4b3350",
+  "built_at": "2026-11-06T06:54:29.193611+00:00",
+  "index_sha256": "df1c2b4b3350ab058f02adc90a4b263a414b9604486702fa9f378423e5ddb31e",
+  "files": [
+    "index.html",
+    "release.json",
+    "health.txt"
+  ],
+  "target_path": "/campus-football-demo/basketball/",
+  "runtime": "static",
+  "hosting": "GitHub Pages"
+}
